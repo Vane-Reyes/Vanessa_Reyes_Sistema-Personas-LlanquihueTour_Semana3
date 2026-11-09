@@ -8,6 +8,10 @@ public class Main {
 
     public static void main(String[] args) {
 
+        /**
+         * Agregamos las direcciones, personas y empleados con sus respectivos atributos
+         * Damos formato a lo que se imprime en consola con System.out.println();
+         */
         //DIRECCIONES
         Direccion direccion1 = new Direccion("La Patagua", "62", "Pomaire", "Melipilla");
 
